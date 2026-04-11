@@ -21,6 +21,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+*** code for visualization and EDA ***
+
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, MinMaxScaler, RobustScaler, Binarizer
 from sklearn.impute import SimpleImputer
